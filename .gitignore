@@ -1,0 +1,20 @@
+Back_End/modified_movie_dataset_1_with_embeddings.csv
+node_modules/
+*.log
+
+# Ignore specific file types
+*.zip
+*.tar.gz
+*.env
+Back_End/modified_movie_dataset_1_with_embeddings.csv
+Back_End/modified_movie_dataset.csv
+Back_End/modified_movie_dataset1.csv
+Back_End/movie_dataset.csv
+Back_End/movie_dataset2.csv
+Back_End/movie_dataset_with_correct_poster.csv
+Back_End/api/venv
+Back_End/api/.env
+Back_End/api/modified_movie_dataset_1_with_embeddings
+Back_End/api/*.csv
+Back_End/*.csv
+*.csv
