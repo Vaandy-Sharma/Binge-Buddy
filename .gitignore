@@ -18,3 +18,9 @@ Back_End/api/modified_movie_dataset_1_with_embeddings
 Back_End/api/*.csv
 Back_End/*.csv
 *.csv
+Back_End/api/__pycache__
+Back_End/api/manage_Nan_posters.py
+Back_End/api/.gitignore
+Back_End/embeddings/__pycache__
+
+
