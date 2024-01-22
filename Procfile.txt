@@ -1,5 +1,5 @@
 buildpacks:
   - heroku/python
   - heroku/nodejs
-web: python Back_End/app.py
+web: cd Back_End && python app.py
 build: cd Front_End_React && npm install && npm run build
