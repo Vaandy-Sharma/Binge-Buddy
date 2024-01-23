@@ -4,10 +4,10 @@ This application offers personalized movie recommendations based on user search,
 By calculating the shortest distances between these embeddings, the application intelligently matches user preferences with movie characteristics, delivering highly accurate and personalized recommendations.
 The embedding swere generated using open Ai text model. The embeddings were then saved as a field in MongoDB database.
 ## Stack used  for thi sproject -
-#Backend - Python
-#framework - Flask
-#Database - MongoDB
-#fRont End - React
+-Backend - Python
+-framework - Flask
+-Database - MongoDB
+-fRont End - React
 
 
 
