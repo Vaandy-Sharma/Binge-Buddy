@@ -1,5 +1,0 @@
-
-buildpacks:
-  - heroku/python
-
-web: cd Back_End/api/ app.py

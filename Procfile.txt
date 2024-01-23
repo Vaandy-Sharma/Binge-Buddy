@@ -1,0 +1,6 @@
+
+buildpacks:
+  - heroku/python
+  - heroku/nodejs
+web: cd Back_End/api/app.py
+uild: cd Back_End/api && pip install -r requirements.txt && cd ../../Front_End_React && npm install && npm run build
